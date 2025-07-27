@@ -38,10 +38,6 @@
 
 ## Shadowrocket 配置教程
 
-<video controls>
-  <source src="/assets/ios.webm">
-</video>
-
 ### 第一步：下载并安装
 
 <div class="tutorial-step">
@@ -94,10 +90,6 @@
 </div>
 
 ## Quantumult X 配置教程
-
-<video controls>
-  <source src="/assets/iosqx.webm">
-</video>
 
 ### 第一步：下载并安装
 
