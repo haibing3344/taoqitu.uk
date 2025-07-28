@@ -65,7 +65,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: '© 2024 淘气兔机场. All rights reserved.',
+      message: '© 2025 <a href="/">淘气兔机场</a>. All rights reserved.',
       copyright: '本站仅为技术交流，请遵守当地法律法规'
     },
 
