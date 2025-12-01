@@ -47,7 +47,7 @@ export default defineConfig({
       },
       { text: '订阅', link: '/subscribe' },
       { text: 'FAQ', link: '/faq' },
-      { text: '登录注册', link: 'https://a.suola.link/taoqitu' }
+      { text: '登录注册', link: 'https://c.jichangs.com/taoqitu' }
     ],
 
     sidebar: {
